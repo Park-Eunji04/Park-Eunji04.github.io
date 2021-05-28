@@ -46,7 +46,7 @@ return 0;
 ~~~ 
 
 ### 03. 이 달은 며칠까지 있을까?
-![callendar](/assets/images/callendar.jpg)
+![callendar](/assets/images/calendar.jpg)
 ~~~c
 #include <stdio.h>
 int main(void)
