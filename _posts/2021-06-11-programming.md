@@ -11,9 +11,6 @@ toc label: "페이지 주요 목차"
 ### 01. &
 대응되는 비트가 모두 1이면 (비트 AND 연산)
 
-
-
-
 ### 02. |	
 대응되는 비트 중에서 하나라도 1이면 1을 반환함. (비트 OR 연산)
 
@@ -24,6 +21,7 @@ toc label: "페이지 주요 목차"
 지정한 수만큼 비트들을 전부 왼쪽으로 이동시킴. (left shift 연산)
 ### 05. >>	
 부호를 유지하면서 지정한 수만큼 비트를 전부 오른쪽으로 이동시킴. (right shift 연산)
-### 06. 참고 동영상
 
+### 06. 참고 자료
+![bitwise operator](/assets/images/9946.png)
 {% include video id="8P6RXhBp_sM" provider="youtube" %}
