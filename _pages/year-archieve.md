@@ -1,6 +1,6 @@
 ---
 title: "연도별 포스팅"
 permalink:/posts/
-layout: year
+layout: posts
 author_profile: true
 ---
