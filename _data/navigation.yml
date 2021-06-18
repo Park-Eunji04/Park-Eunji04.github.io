@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "블로그에 오신 것을 환영합니다"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /intro/https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "컴퓨터 전문가를 소재로 한 영화"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "조건문"
