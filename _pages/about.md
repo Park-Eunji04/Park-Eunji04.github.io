@@ -1,5 +1,5 @@
 ---
-title: "Realtime Knowldege 소개"
+title: "Realtime Knowledge 소개"
 permalink: /about/
 layout: single
 ---
