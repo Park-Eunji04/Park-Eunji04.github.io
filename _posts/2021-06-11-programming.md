@@ -5,6 +5,7 @@ toc: ture
 toc_sticky: true
 toc label: "페이지 주요 목차"
 categories: 비트_연산자
+last_modified_at: 2021-06-11 T08:06:00-05:00
 ---
 ### 01. 비트 연산자의 정의
 비트 연산자는 비트 단위로 논리 연산을 할 때 사용하는 연산자이다.
