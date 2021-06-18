@@ -1,6 +1,6 @@
 # main links
 main:
-  - title: "블로그에 오신 것을 환영합니다"
+  - title: "C 프로그래밍 소개"
     url: /intro/
   # - title: "컴퓨터 전문가를 소재로 한 영화"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
