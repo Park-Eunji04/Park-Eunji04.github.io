@@ -4,9 +4,9 @@ main:
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
+  # - title: "조건문"
+  #   url: /programming-archive/
+  # - title: "유튜브 동영상 삽입하기"
   #   url: /collection-archive/
-  # - title: "Sitemap"
+  # - title: "비트 연산자"
   #   url: /about/
