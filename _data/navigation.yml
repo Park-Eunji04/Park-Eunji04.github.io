@@ -2,11 +2,8 @@
 main:
   - title: "C 프로그래밍 소개"
     url: /categories/
-  - title: "컴퓨터 전문가를 소재로 한 영화"
+  - title: "개념"
     url: /posts/
-  - title: "조건문"
-    url: /programming-archive/
-  - title: "유튜브 동영상 삽입하기"
-    url: /collection-archive/
-  - title: "비트 연산자"
-    url: /about/
+  - title: "연도"
+    url: /year/
+ 
