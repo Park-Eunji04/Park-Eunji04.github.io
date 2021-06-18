@@ -3,7 +3,7 @@ main:
   - title: "C 프로그래밍 소개"
     url: /intro/
   # - title: "컴퓨터 전문가를 소재로 한 영화"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  #   url: /post/
   # - title: "조건문"
   #   url: /programming-archive/
   # - title: "유튜브 동영상 삽입하기"
