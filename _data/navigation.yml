@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "C 프로그래밍 소개"
-    url: /intro/
+    url: /categories/
   - title: "컴퓨터 전문가를 소재로 한 영화"
     url: /posts/
   - title: "조건문"
