@@ -1,6 +1,6 @@
 ---
 title: "C 프로그래밍 소개"
-permalink: /intro/
+permalink: /about/
 layout: single
 ---
 
