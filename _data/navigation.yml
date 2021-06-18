@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "C 프로그래밍 소개"
-    url: /categories/
   - title: "개념"
-    url: /posts/
+    url: /categories/
   - title: "연도"
     url: /year/
+  - title: "소개"
+    url: /posts/
  
